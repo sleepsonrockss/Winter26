@@ -54,4 +54,4 @@ jupyter notebook
 ## 🙋 About
 
 Personal academic repository for the Winter 2026 semester.
-University of Alberta — Computing Science.
+University of Alberta - Computing Science.
