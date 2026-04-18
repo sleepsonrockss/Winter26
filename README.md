@@ -1,4 +1,4 @@
-# Winter26
+# Winter 2026
 
 Course repository for the Winter 2026 semester at the University of Alberta.
 
