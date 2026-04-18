@@ -4,7 +4,7 @@ Course repository for my **Winter 2026** semester at the University of Alberta.
 
 ---
 
-## 📂 Contents
+## Contents
 
 ### CMPUT 365 - GOAT
 Coursework and assignments for **CMPUT 365: Introduction to Reinforcement Learning**.
@@ -13,7 +13,7 @@ Coursework and assignments for **CMPUT 365: Introduction to Reinforcement Learni
 
 ---
 
-## 🧠 Course Overview
+## Course Overview
 
 | Course | Name | Topic |
 |--------|------|-------|
@@ -21,7 +21,7 @@ Coursework and assignments for **CMPUT 365: Introduction to Reinforcement Learni
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python 3
 - NumPy
@@ -29,18 +29,7 @@ Coursework and assignments for **CMPUT 365: Introduction to Reinforcement Learni
 
 ---
 
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/sleepsonrockss/Winter26.git
-cd Winter26
-pip install -r requirements.txt  # if applicable
-jupyter notebook
-```
-
----
-
-## 📖 Topics Covered (CMPUT 365)
+## Topics Covered (CMPUT 365)
 
 - Markov Decision Processes (MDPs)
 - Dynamic Programming (Value Iteration, Policy Iteration)
@@ -51,7 +40,7 @@ jupyter notebook
 
 ---
 
-## 🙋 About
+## About
 
 Personal academic repository for the Winter 2026 semester.
 University of Alberta - Computing Science.
