@@ -71,10 +71,10 @@ The course covers both traditional and modern approaches to statistical learning
 Winter26/
 ├── CMPUT 365 - GOAT/
 │   └── [Reinforcement learning assignments and projects]
-├── CMPUT 366 - GOAT/
+├── CMPUT 366/
 │   └── [Intelligent systems assignments and projects]
-├── STAT 413 - GOAT/
+├── STAT 413/
 │   └── [Data science computing assignments and projects]
-└── STAT 441 - GOAT/
+└── STAT 441/
     └── [Statistical learning and data mining assignments and projects]
 ```
