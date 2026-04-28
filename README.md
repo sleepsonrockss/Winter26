@@ -21,8 +21,6 @@ Key Topics:
 - Value iteration and policy iteration methods
 The course takes an information-processing perspective and integrates insights from psychology, neuroscience, and philosophy. Upon completion, students understand the foundations of modern probabilistic artificial intelligence and are prepared to tackle advanced machine learning courses and real-world applications.
  
-Prerequisites: CMPUT 175 or 275, and one of CMPUT 267, 466, or STAT 265
- 
 ### CMPUT 366: Intelligent Systems
  
 CMPUT 366 provides an introduction to artificial intelligence with emphasis on techniques for building intelligent software systems and agents. The course covers fundamental approaches to constructing systems that can perceive their environment, reason about problems, and take appropriate actions.
@@ -36,9 +34,7 @@ Key Topics:
 - Multi-agent problem solving
 - Constraint satisfaction and optimization
 Applications studied include planning and scheduling systems, diagnostic systems, decision support tools, and data mining approaches. The course provides foundations needed for advanced study in AI and prepares students to apply intelligent systems to real-world challenges.
- 
-Prerequisites: STAT 151, 161, 181, 235, 265, SCI 151, or MATH 181 (with corequisite CMPUT 204 or 275)
- 
+  
 ### STAT 413: Computing for Data Science
  
 STAT 413 surveys contemporary programming languages and environments suitable for implementing statistical algorithms and data science techniques. This course covers practical computational methods essential for modern statistical practice.
@@ -68,9 +64,7 @@ Key Topics:
 - Statistical model building and interpretation
 - Applied multivariate analysis
 The course covers both traditional and modern approaches to statistical learning, with applications to real data from biological, physical, social, and business domains. Students gain expertise in selecting appropriate methods for different types of data and problems.
- 
-Prerequisites: MATH 120 or 125, STAT 252 or 337 or MGTSC 312, and a 300-level course in relevant area
- 
+  
 ## Repository Structure
  
 ```
